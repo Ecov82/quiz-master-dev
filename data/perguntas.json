@@ -1,0 +1,92 @@
+[
+  {
+    "id": "p1",
+    "enunciado": "Qual é a linguagem de programação usada para criar este projeto?",
+    "opcoes": ["Python", "Java", "C#", "Ruby"],
+    "resposta_correta": "1",
+    "dificuldade": "Fácil",
+    "pontuacao": 10,
+    "categoria": "Python"
+  },
+  {
+    "id": "p2",
+    "enunciado": "Qual estrutura de controle permite repetir um bloco de código enquanto uma condição for verdadeira?",
+    "opcoes": ["if", "for", "while", "switch"],
+    "resposta_correta": "3",
+    "dificuldade": "Fácil",
+    "pontuacao": 10,
+    "categoria": "Lógica"
+  },
+  {
+    "id": "p3",
+    "enunciado": "Qual é o resultado de 2 + 2?",
+    "opcoes": ["3", "4", "5", "6"],
+    "resposta_correta": "2",
+    "dificuldade": "Fácil",
+    "pontuacao": 10,
+    "categoria": "Geral"
+  },
+  {
+    "id": "p4",
+    "enunciado": "Qual comando é usado para imprimir texto em Python?",
+    "opcoes": ["print()", "input()", "read()", "write()"],
+    "resposta_correta": "1",
+    "dificuldade": "Médio",
+    "pontuacao": 15,
+    "categoria": "Python"
+  },
+  {
+    "id": "p5",
+    "enunciado": "Em Python, qual símbolo é usado para comentários de uma linha?",
+    "opcoes": ["//", "#", "/*", "--"],
+    "resposta_correta": "2",
+    "dificuldade": "Médio",
+    "pontuacao": 15,
+    "categoria": "Python"
+  },
+  {
+    "id": "p6",
+    "enunciado": "Qual é a função principal de um algoritmo?",
+    "opcoes": ["Armazenar dados", "Resolver um problema", "Criar interfaces", "Editar arquivos"],
+    "resposta_correta": "2",
+    "dificuldade": "Médio",
+    "pontuacao": 15,
+    "categoria": "Lógica"
+  },
+  {
+    "id": "p7",
+    "enunciado": "O que é uma lista em Python?",
+    "opcoes": ["Uma função", "Um tipo de dado para armazenar coleções", "Um operador", "Uma variável booleana"],
+    "resposta_correta": "2",
+    "dificuldade": "Difícil",
+    "pontuacao": 20,
+    "categoria": "Python"
+  },
+  {
+    "id": "p8",
+    "enunciado": "Qual é a diferença entre uma lista e uma tupla em Python?",
+    "opcoes": ["Não há diferença", "Lista é mutável e tupla é imutável", "Tupla é mutável e lista é imutável", "Ambas são imutáveis"],
+    "resposta_correta": "2",
+    "dificuldade": "Difícil",
+    "pontuacao": 20,
+    "categoria": "Python"
+  },
+  {
+    "id": "p9",
+    "enunciado": "Qual estrutura é usada para representar um conjunto de chave-valor em Python?",
+    "opcoes": ["Lista", "Tupla", "Dicionário", "Conjunto"],
+    "resposta_correta": "3",
+    "dificuldade": "Difícil",
+    "pontuacao": 20,
+    "categoria": "Python"
+  },
+  {
+    "id": "p10",
+    "enunciado": "Qual comando é usado para criar uma função em Python?",
+    "opcoes": ["function", "def", "class", "import"],
+    "resposta_correta": "2",
+    "dificuldade": "Difícil",
+    "pontuacao": 20,
+    "categoria": "Python"
+  }
+]

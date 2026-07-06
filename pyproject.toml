@@ -1,0 +1,11 @@
+[tool.pytest.ini_options]
+pythonpath = ["."]
+
+[tool.mypy]
+python_version = "3.11"
+files = ["."]
+namespace_packages = true
+
+[[tool.mypy.overrides]]
+module = ["models.*", "repositories.*", "controllers.*", "services.*", "interfaces.*", "utils.*"]
+ignore_missing_imports = true
