@@ -60,8 +60,7 @@ Abra o seu navegador e acesse o endereço indicado no terminal (geralmente `http
 
 ## Tecnologias Utilizadas
 
-* **Frontend:** HTML5, CSS3, JavaScript
-* **Backend:** Node.js
+** **Linguagem:** Python
 
 ---
 
